@@ -11,7 +11,7 @@ import java.util.Random;
 *
 *********************************************************************
 */
-public class 二分查找 {
+public class NC105_二分查找 {
     /**
      * 二分查找
      * @param n int整型 数组长度
